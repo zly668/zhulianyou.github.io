@@ -10,5 +10,5 @@ $ composer insatll
 
 
 ``` php
-echo "test";
+echo " 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";
 ```
